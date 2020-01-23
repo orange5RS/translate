@@ -11,7 +11,7 @@ Ergon CF3 카본 싯포스트는 수직으로 1mm (0.04 인치)를 구부리려�
 (a) Reduce high-frequency road vibrations, and;
 (b) Take care of the bigger impacts (think rough dirt roads) thanks to their 20mm+ (0.89") of vertical flex.
 
-** 즉, 플렉스 싯포스트는 다음과 같이 편안한 승차감을 제공하는 좋은 방법입니다. **
+**즉, 플렉스 싯포스트는 다음과 같이 편안한 승차감을 제공하는 좋은 방법입니다.**
 (a) 고주파 도로 진동을 줄이고;
 (b) 20mm + (0.89 인치)의 수직 굴곡 덕분에 더 큰 충격 (더러운 비포장 도로 생각)을 처리하십시오.
 
@@ -21,8 +21,6 @@ In this article, we will discuss the different seatpost types and materials, bef
 _Note: This article was originally published July 2015, but has been updated in May 2019._
 참고: 이 기사는 2015 년 7 월에 게시되었지만 2019 년 5 월에 업데이트되었습니다.
 
-
-# Table of contents
 
 ## The Most Overlooked Bike Component
 가장 간과 된 자전거 구성 요소
@@ -68,11 +66,9 @@ Seatposts are available in different offsets ranging from 0 degrees to 35 degree
 ## Seatpost Damping
 
 Damping is the speed at which a seatpost will move over repeated bumps, and it’s the most important characteristic for cycling on smoother surfaces.
-
 댐핑은 싯포스트가 반복되는 범프 위로 이동하는 속도이며 매끄러운 표면에서 자전거를 타는 데 가장 중요한 특성입니다.
 
 A seatpost that dampens vibrations effectively will insulate a rider from much of the road buzz coming up through their bike. Seatposts with the best damping characteristics have been tested to be more than _twice_ as effective than those which perform poorly.
-
 진동을 효과적으로 완화시셋백 싯포스트은 자전거를 통해 올라 오는 많은 도로 붐으로부터 라이더를 격리시킵니다. 최고의 감쇠 특성을 가진 싯포스트는 성능이 좋지 않은 싯포스트보다 두 배 이상 효과적인 것으로 테스트되었습니다.
 
 **We currently have two damping lab tests to draw some conclusions from:**
