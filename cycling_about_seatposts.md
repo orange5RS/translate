@@ -140,7 +140,7 @@ When testing seatpost deflection, two axes of measurement are usually taken - ve
 13. Zipp Setback Aluminium (3.9mm, 4.0mm)
 14. Thomson Setback Aluminium (3.5mm, 3.6mm)
 
-  
+
 **The conclusions we can draw from the Velo Magazine test:**
 
 - The best performing regular seatposts offer 50-60% more flex than the worst performing.
