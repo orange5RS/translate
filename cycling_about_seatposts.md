@@ -9,8 +9,8 @@ Ergon CF3 카본 싯포스트는 수직으로 1mm (0.04 인치)를 구부리려�
 
 **In short, flex seatposts are a great way to achieve a super comfortable ride as they:**
 
-(a) Reduce high-frequency road vibrations, and;
-(b) Take care of the bigger impacts (think rough dirt roads) thanks to their 20mm+ (0.89") of vertical flex.
+a. Reduce high-frequency road vibrations, and;
+b. Take care of the bigger impacts (think rough dirt roads) thanks to their 20mm+ (0.89") of vertical flex.
 
 **즉, 플렉스 싯포스트는 다음과 같이 편안한 승차감을 제공하는 좋은 방법입니다.**
 
