@@ -8,10 +8,12 @@ The Ergon CF3 carbon seatpost requires 69N of force to flex one vertical millime
 Ergon CF3 카본 싯포스트는 수직으로 1mm (0.04 인치)를 구부리려면 69N의 힘이 필요합니다. 다시말해 당신이 단순히 안장에 앉는 것만으로 CF3 카본 싯포스트는 7mm (0.3 인치) 구부러질수 있습니다. 이에 비해 일반적인 자전거 프레임은 수직으로 1mm를 구부리기 위해 500N 이상의 힘이 필요하며, 이것은 '편안함 방정식'에서 싯포스트가 얼마나 많은 영향을 주는지 (혹은 프레임이 얼마나 적은 영향을 주는지)를 보여줍니다.
 
 **In short, flex seatposts are a great way to achieve a super comfortable ride as they:**
+
 (a) Reduce high-frequency road vibrations, and;
 (b) Take care of the bigger impacts (think rough dirt roads) thanks to their 20mm+ (0.89") of vertical flex.
 
 **즉, 플렉스 싯포스트는 다음과 같이 편안한 승차감을 제공하는 좋은 방법입니다.**
+
 (a) 고주파 도로 진동을 줄이고;
 (b) 20mm + (0.89 인치)의 수직 굴곡 덕분에 더 큰 충격 (더러운 비포장 도로 생각)을 처리하십시오.
 
