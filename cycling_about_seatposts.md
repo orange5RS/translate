@@ -9,13 +9,13 @@ Ergon CF3 카본 싯포스트는 수직으로 1mm (0.04 인치)를 구부리려�
 
 **In short, flex seatposts are a great way to achieve a super comfortable ride as they:**
 
-a. Reduce high-frequency road vibrations, and;
-b. Take care of the bigger impacts (think rough dirt roads) thanks to their 20mm+ (0.89") of vertical flex.
+1. Reduce high-frequency road vibrations, and;
+2. Take care of the bigger impacts (think rough dirt roads) thanks to their 20mm+ (0.89") of vertical flex.
 
 **즉, 플렉스 싯포스트는 다음과 같이 편안한 승차감을 제공하는 좋은 방법입니다.**
 
-(a) 고주파 도로 진동을 줄이고;
-(b) 20mm + (0.89 인치)의 수직 굴곡 덕분에 더 큰 충격 (더러운 비포장 도로 생각)을 처리하십시오.
+1. 고주파 도로 진동을 줄이고;
+2. 20mm + (0.89 인치)의 수직 굴곡 덕분에 더 큰 충격 (더러운 비포장 도로 생각)을 처리하십시오.
 
 In this article, we will discuss the different seatpost types and materials, before looking at the difference between vibration damping and seatpost deflection. We’ll then check out some of the lab testing that’s been completed and will finish up with my seatpost recommendations.
 이 기사에서는 진동 감쇠와 싯포스트 편향의 차이점을 살펴보기 전에 다양한 싯포스트 유형과 재료에 대해 설명합니다. 그런 다음 완료된 실험실 테스트 중 일부를 확인하고 싯포스트 권장 사항으로 마무리합니다.
